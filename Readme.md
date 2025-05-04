@@ -1,1 +1,1 @@
-"Hello devamanas just start the project today nyt ownwords"
+"Using python Creating ranodom passwords which haing the minimum requirements"
